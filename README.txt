@@ -1,0 +1,3 @@
+Storage=Global
+I did the local option for P3 and Global option for P4 for least amount of work. Sue me for gaming the system.
+So apparently in the BNF we had "let Identifer : Integer". In my implementation, I assume this meant that this was declared AND defined, however according to Janikow this just means it is declared and only becomes DEFINED when you use <assign>. My mental health has deteriorated enough due to this class and I refuse to fix it at this point. Give me the -5 point coach
